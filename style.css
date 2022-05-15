@@ -1,0 +1,96 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+  width: 20%;
+  margin-left: auto;
+}
+
+nav a {
+  color: rgb(31, 9, 224);
+  text-decoration: none;
+  margin-top: 10px;
+}
+
+nav img {
+  height: 40px;
+  margin-top: auto;
+}
+
+main {
+    position: static;
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
+main img{
+ object-fit:cover;
+ object-position: center;
+    right:0%;
+}
+
+input {
+  width: 50%;
+  padding: 0.5em;
+  text-align: ceenter;
+  border-radius: 60px;
+  border: 1px solid rgb(11, 13, 165);
+}
+
+.button {
+    
+  margin-top: 10px;
+ 
+}
+
+.Btn1{
+    margin-right: 5px;
+    border: 1px solid rgb(0, 60, 255);
+    border-radius: 5px;
+    padding: 10px;
+    
+}
+
+.Btn2{
+    margin-left: 5px;
+    border: 1px solid rgb(0, 60, 255);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+   
+
+}
+.footer hr{
+   overflow: hidden;
+}
+
+.footer h3{
+    margin-left: 40px;
+    color:rgb(160, 47, 12)
+   
+}
+
+#u7bn{
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 40px;
+    color: blue;
+}
+
+#b2mn{
+    margin-left: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    color: blue;}
+    
+#tnmb{
+    margin-left:10px;
+    text-decoration: none;
+    font-size: 20px;
+    color: blue;
+}
